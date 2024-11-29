@@ -98,3 +98,38 @@ void loop() {
     Serial.println();
   }
 }
+
+
+// import paho.mqtt.subscribe as subscribe
+// import pandas as pd
+// topics = ['alextemp', 'alexhumidity','alextime']
+ 
+// temperature = []
+// humidity = []
+// time=[]
+ 
+// n_prints = 5
+// for n in range(0,n_prints):
+//     data = []
+   
+//     m = subscribe.simple(topics, hostname="pf-eveoxy0ua6xhtbdyohag.cedalo.cloud", retained=False, msg_count=len(topics))
+//     for a in m:
+//         # print(a.payload)
+//         data.append(a.payload)
+//     temperature.append(float(data[0].decode('utf-8')))
+//     humidity.append(float(data[1].decode('utf-8')))
+//     time.append(float(data[2].decode('utf-8')))
+// print(temperature)
+// print(humidity)
+// print(time)
+   
+// df = pd.DataFrame({
+//     'temperature()': temperature,
+//     'humidity': humidity,
+//     'time(s)' : time  
+// })
+// print(df)
+ 
+// df.to_csv('output.csv', index=False)
+
+
