@@ -6,11 +6,12 @@
 Sensor tempSensor(SENSOR_ID_TEMP);
 SensorBSEC bsec(SENSOR_ID_BSEC);
 Sensor gas(SENSOR_ID_GAS);
+// Sensor humidity(SENSOR_ID_HUM);
 //you need to defind the sensor in the beginning, temperature sensor and BSEC sensor
 
 ///////please enter your sensitive data in the Secret tab/arduino_secrets.h
-char ssid[] = "VodafoneMobileWiFi-72AF05";        // your network SSID (name)
-char pass[] = "7353626621";    // your network password (use for WPA, or use as key for WEP)
+char ssid[] = "TP-Link_F33D";        // your network SSID (name)
+char pass[] = "60308927";    // your network password (use for WPA, or use as key for WEP)
 
 WiFiClient wifiClient;
 MqttClient mqttClient(wifiClient);
@@ -77,7 +78,7 @@ void loop() {
     //Record temperature and gas sensor values
     float Rvalue1 = tempSensor.value();
     float Rvalue2 = gas.value();
-
+    // float Rvalue2 = humidity.value();
     // Serial.print("Sending message to topic1: ");
     // Serial.println(topic1);
     Serial.println(Rvalue1);
@@ -98,38 +99,3 @@ void loop() {
     Serial.println();
   }
 }
-
-
-// import paho.mqtt.subscribe as subscribe
-// import pandas as pd
-// topics = ['alextemp', 'alexhumidity','alextime']
- 
-// temperature = []
-// humidity = []
-// time=[]
- 
-// n_prints = 5
-// for n in range(0,n_prints):
-//     data = []
-   
-//     m = subscribe.simple(topics, hostname="pf-eveoxy0ua6xhtbdyohag.cedalo.cloud", retained=False, msg_count=len(topics))
-//     for a in m:
-//         # print(a.payload)
-//         data.append(a.payload)
-//     temperature.append(float(data[0].decode('utf-8')))
-//     humidity.append(float(data[1].decode('utf-8')))
-//     time.append(float(data[2].decode('utf-8')))
-// print(temperature)
-// print(humidity)
-// print(time)
-   
-// df = pd.DataFrame({
-//     'temperature()': temperature,
-//     'humidity': humidity,
-//     'time(s)' : time  
-// })
-// print(df)
- 
-// df.to_csv('output.csv', index=False)
-
-
