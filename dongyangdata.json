@@ -1,0 +1,7002 @@
+[
+    {
+        "experiment_ID":1,
+        "timestamp":"12-11 20:50:10",
+        "temperature":30.94,
+        "gas":16293.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":2,
+        "timestamp":"12-11 20:50:15",
+        "temperature":30.94,
+        "gas":16155.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":3,
+        "timestamp":"12-11 20:50:21",
+        "temperature":30.94,
+        "gas":16255.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":4,
+        "timestamp":"12-11 20:50:26",
+        "temperature":30.94,
+        "gas":16167.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":5,
+        "timestamp":"12-11 20:50:31",
+        "temperature":30.94,
+        "gas":16408.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":6,
+        "timestamp":"12-11 20:50:36",
+        "temperature":30.94,
+        "gas":16408.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":7,
+        "timestamp":"12-11 20:50:41",
+        "temperature":30.94,
+        "gas":16408.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":8,
+        "timestamp":"12-11 20:50:46",
+        "temperature":30.94,
+        "gas":16434.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":9,
+        "timestamp":"12-11 20:50:51",
+        "temperature":30.93,
+        "gas":16319.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":10,
+        "timestamp":"12-11 20:50:57",
+        "temperature":30.93,
+        "gas":16268.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":11,
+        "timestamp":"12-11 20:51:02",
+        "temperature":30.93,
+        "gas":16230.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":12,
+        "timestamp":"12-11 20:51:07",
+        "temperature":30.94,
+        "gas":16319.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":13,
+        "timestamp":"12-11 20:51:12",
+        "temperature":30.93,
+        "gas":16408.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":14,
+        "timestamp":"12-11 20:51:17",
+        "temperature":30.93,
+        "gas":16319.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":15,
+        "timestamp":"12-11 20:51:22",
+        "temperature":30.93,
+        "gas":16370.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":16,
+        "timestamp":"12-11 20:51:27",
+        "temperature":30.93,
+        "gas":16370.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":17,
+        "timestamp":"12-11 20:51:32",
+        "temperature":30.93,
+        "gas":16281.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":18,
+        "timestamp":"12-11 20:51:37",
+        "temperature":30.93,
+        "gas":16281.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":19,
+        "timestamp":"12-11 20:51:42",
+        "temperature":30.94,
+        "gas":16447.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":20,
+        "timestamp":"12-11 20:51:47",
+        "temperature":30.93,
+        "gas":16306.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":21,
+        "timestamp":"12-11 20:51:53",
+        "temperature":30.93,
+        "gas":16447.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":22,
+        "timestamp":"12-11 20:51:57",
+        "temperature":30.92,
+        "gas":16408.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":23,
+        "timestamp":"12-11 20:52:03",
+        "temperature":30.92,
+        "gas":16486.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":24,
+        "timestamp":"12-11 20:52:08",
+        "temperature":30.92,
+        "gas":16268.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":25,
+        "timestamp":"12-11 20:52:13",
+        "temperature":30.93,
+        "gas":16319.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":26,
+        "timestamp":"12-11 20:52:18",
+        "temperature":30.92,
+        "gas":16421.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":27,
+        "timestamp":"12-11 20:52:23",
+        "temperature":30.92,
+        "gas":16512.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":28,
+        "timestamp":"12-11 20:52:28",
+        "temperature":30.92,
+        "gas":16408.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":29,
+        "timestamp":"12-11 20:52:33",
+        "temperature":30.92,
+        "gas":16447.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":30,
+        "timestamp":"12-11 20:52:39",
+        "temperature":30.92,
+        "gas":16370.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":31,
+        "timestamp":"12-11 20:52:44",
+        "temperature":30.92,
+        "gas":16281.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":32,
+        "timestamp":"12-11 20:52:48",
+        "temperature":30.92,
+        "gas":16525.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":33,
+        "timestamp":"12-11 20:52:54",
+        "temperature":30.92,
+        "gas":16344.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":34,
+        "timestamp":"12-11 20:52:59",
+        "temperature":30.92,
+        "gas":16344.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":35,
+        "timestamp":"12-11 20:53:04",
+        "temperature":30.91,
+        "gas":16395.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":36,
+        "timestamp":"12-11 20:53:09",
+        "temperature":30.91,
+        "gas":16421.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":37,
+        "timestamp":"12-11 20:53:14",
+        "temperature":30.91,
+        "gas":16447.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":38,
+        "timestamp":"12-11 20:53:19",
+        "temperature":30.91,
+        "gas":16370.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":39,
+        "timestamp":"12-11 20:53:24",
+        "temperature":30.91,
+        "gas":16408.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":40,
+        "timestamp":"12-11 20:53:29",
+        "temperature":30.91,
+        "gas":16395.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":41,
+        "timestamp":"12-11 20:53:35",
+        "temperature":30.91,
+        "gas":16434.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":42,
+        "timestamp":"12-11 20:53:40",
+        "temperature":30.91,
+        "gas":16319.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":43,
+        "timestamp":"12-11 20:53:45",
+        "temperature":30.91,
+        "gas":16395.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":44,
+        "timestamp":"12-11 20:53:50",
+        "temperature":30.91,
+        "gas":16319.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":45,
+        "timestamp":"12-11 20:53:55",
+        "temperature":30.9,
+        "gas":16434.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":46,
+        "timestamp":"12-11 20:54:00",
+        "temperature":30.91,
+        "gas":16293.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":47,
+        "timestamp":"12-11 20:54:05",
+        "temperature":30.9,
+        "gas":16408.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":48,
+        "timestamp":"12-11 20:54:10",
+        "temperature":30.9,
+        "gas":16395.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":49,
+        "timestamp":"12-11 20:54:15",
+        "temperature":30.9,
+        "gas":16460.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":50,
+        "timestamp":"12-11 20:54:20",
+        "temperature":30.9,
+        "gas":16421.0,
+        "humidity":41.0,
+        "barometer":1028.89,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":51,
+        "timestamp":"12-11 20:54:26",
+        "temperature":30.89,
+        "gas":16551.0,
+        "humidity":41.0,
+        "barometer":1028.89,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":52,
+        "timestamp":"12-11 20:54:31",
+        "temperature":30.9,
+        "gas":16551.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":53,
+        "timestamp":"12-11 20:54:36",
+        "temperature":30.9,
+        "gas":16421.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":54,
+        "timestamp":"12-11 20:54:41",
+        "temperature":30.89,
+        "gas":16408.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":55,
+        "timestamp":"12-11 20:54:46",
+        "temperature":30.89,
+        "gas":16370.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":56,
+        "timestamp":"12-11 20:54:51",
+        "temperature":30.89,
+        "gas":16370.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":57,
+        "timestamp":"12-11 20:54:56",
+        "temperature":30.9,
+        "gas":16331.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":58,
+        "timestamp":"12-11 20:55:01",
+        "temperature":30.89,
+        "gas":16421.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":59,
+        "timestamp":"12-11 20:55:06",
+        "temperature":30.89,
+        "gas":16512.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":60,
+        "timestamp":"12-11 20:55:12",
+        "temperature":30.89,
+        "gas":16408.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":61,
+        "timestamp":"12-11 20:55:17",
+        "temperature":30.88,
+        "gas":16421.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":62,
+        "timestamp":"12-11 20:55:22",
+        "temperature":30.89,
+        "gas":16499.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":63,
+        "timestamp":"12-11 20:55:27",
+        "temperature":30.89,
+        "gas":16486.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":64,
+        "timestamp":"12-11 20:55:32",
+        "temperature":30.89,
+        "gas":16357.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":65,
+        "timestamp":"12-11 20:55:37",
+        "temperature":30.88,
+        "gas":16473.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":66,
+        "timestamp":"12-11 20:55:42",
+        "temperature":30.88,
+        "gas":16370.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":67,
+        "timestamp":"12-11 20:55:47",
+        "temperature":30.88,
+        "gas":16643.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":68,
+        "timestamp":"12-11 20:55:52",
+        "temperature":30.89,
+        "gas":16421.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":69,
+        "timestamp":"12-11 20:55:58",
+        "temperature":30.88,
+        "gas":16421.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":70,
+        "timestamp":"12-11 20:56:03",
+        "temperature":30.88,
+        "gas":16525.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":71,
+        "timestamp":"12-11 20:56:08",
+        "temperature":30.89,
+        "gas":16590.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":72,
+        "timestamp":"12-11 20:56:13",
+        "temperature":30.88,
+        "gas":16486.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":73,
+        "timestamp":"12-11 20:56:18",
+        "temperature":30.88,
+        "gas":16683.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":74,
+        "timestamp":"12-11 20:56:23",
+        "temperature":30.89,
+        "gas":16603.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":75,
+        "timestamp":"12-11 20:56:28",
+        "temperature":30.88,
+        "gas":16421.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":76,
+        "timestamp":"12-11 20:56:33",
+        "temperature":30.88,
+        "gas":16617.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":77,
+        "timestamp":"12-11 20:56:38",
+        "temperature":30.88,
+        "gas":16486.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":78,
+        "timestamp":"12-11 20:56:44",
+        "temperature":30.88,
+        "gas":16434.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":79,
+        "timestamp":"12-11 20:56:49",
+        "temperature":30.88,
+        "gas":16630.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":80,
+        "timestamp":"12-11 20:56:54",
+        "temperature":30.88,
+        "gas":16538.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":81,
+        "timestamp":"12-11 20:56:59",
+        "temperature":30.88,
+        "gas":16538.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":82,
+        "timestamp":"12-11 20:57:04",
+        "temperature":30.88,
+        "gas":16590.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":83,
+        "timestamp":"12-11 20:57:09",
+        "temperature":30.88,
+        "gas":16460.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":84,
+        "timestamp":"12-11 20:57:14",
+        "temperature":30.88,
+        "gas":16564.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":85,
+        "timestamp":"12-11 20:57:19",
+        "temperature":30.88,
+        "gas":16499.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":86,
+        "timestamp":"12-11 20:57:24",
+        "temperature":30.88,
+        "gas":16499.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":87,
+        "timestamp":"12-11 20:57:30",
+        "temperature":30.88,
+        "gas":16473.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":88,
+        "timestamp":"12-11 20:57:35",
+        "temperature":30.88,
+        "gas":16395.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":89,
+        "timestamp":"12-11 20:57:40",
+        "temperature":30.88,
+        "gas":16395.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":90,
+        "timestamp":"12-11 20:57:45",
+        "temperature":30.88,
+        "gas":16551.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":91,
+        "timestamp":"12-11 20:57:50",
+        "temperature":30.88,
+        "gas":16408.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":92,
+        "timestamp":"12-11 20:57:55",
+        "temperature":30.87,
+        "gas":16617.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":93,
+        "timestamp":"12-11 20:58:00",
+        "temperature":30.88,
+        "gas":16656.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":94,
+        "timestamp":"12-11 20:58:05",
+        "temperature":30.88,
+        "gas":16486.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":95,
+        "timestamp":"12-11 20:58:10",
+        "temperature":30.87,
+        "gas":16499.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":96,
+        "timestamp":"12-11 20:58:15",
+        "temperature":30.88,
+        "gas":16590.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":97,
+        "timestamp":"12-11 20:58:21",
+        "temperature":30.87,
+        "gas":16577.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":98,
+        "timestamp":"12-11 20:58:26",
+        "temperature":30.87,
+        "gas":16603.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":99,
+        "timestamp":"12-11 20:58:31",
+        "temperature":30.87,
+        "gas":16683.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":100,
+        "timestamp":"12-11 20:58:36",
+        "temperature":30.87,
+        "gas":16656.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":101,
+        "timestamp":"12-11 20:58:41",
+        "temperature":30.87,
+        "gas":16525.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":102,
+        "timestamp":"12-11 20:58:46",
+        "temperature":30.87,
+        "gas":16434.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":103,
+        "timestamp":"12-11 20:58:51",
+        "temperature":30.87,
+        "gas":16473.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":104,
+        "timestamp":"12-11 20:58:56",
+        "temperature":30.87,
+        "gas":16669.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":105,
+        "timestamp":"12-11 20:59:01",
+        "temperature":30.87,
+        "gas":16408.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":106,
+        "timestamp":"12-11 20:59:07",
+        "temperature":30.87,
+        "gas":16669.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":107,
+        "timestamp":"12-11 20:59:12",
+        "temperature":30.87,
+        "gas":16577.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":108,
+        "timestamp":"12-11 20:59:17",
+        "temperature":30.87,
+        "gas":16683.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":109,
+        "timestamp":"12-11 20:59:22",
+        "temperature":30.87,
+        "gas":16525.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":110,
+        "timestamp":"12-11 20:59:27",
+        "temperature":30.87,
+        "gas":16525.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":111,
+        "timestamp":"12-11 20:59:32",
+        "temperature":30.87,
+        "gas":16538.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":112,
+        "timestamp":"12-11 20:59:37",
+        "temperature":30.86,
+        "gas":16643.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":113,
+        "timestamp":"12-11 20:59:42",
+        "temperature":30.86,
+        "gas":16643.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":114,
+        "timestamp":"12-11 20:59:47",
+        "temperature":30.86,
+        "gas":16709.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":115,
+        "timestamp":"12-11 20:59:52",
+        "temperature":30.86,
+        "gas":16564.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":116,
+        "timestamp":"12-11 20:59:57",
+        "temperature":30.86,
+        "gas":16551.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":117,
+        "timestamp":"12-11 21:00:03",
+        "temperature":30.87,
+        "gas":16736.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":118,
+        "timestamp":"12-11 21:00:08",
+        "temperature":30.86,
+        "gas":16723.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":119,
+        "timestamp":"12-11 21:00:13",
+        "temperature":30.86,
+        "gas":16499.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":120,
+        "timestamp":"12-11 21:00:18",
+        "temperature":30.86,
+        "gas":16590.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":121,
+        "timestamp":"12-11 21:00:23",
+        "temperature":30.86,
+        "gas":16499.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":122,
+        "timestamp":"12-11 21:00:28",
+        "temperature":30.86,
+        "gas":16512.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":123,
+        "timestamp":"12-11 21:00:33",
+        "temperature":30.85,
+        "gas":16473.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":124,
+        "timestamp":"12-11 21:00:38",
+        "temperature":30.86,
+        "gas":16603.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":125,
+        "timestamp":"12-11 21:00:44",
+        "temperature":30.86,
+        "gas":16538.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":126,
+        "timestamp":"12-11 21:00:49",
+        "temperature":30.86,
+        "gas":16643.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":127,
+        "timestamp":"12-11 21:00:54",
+        "temperature":30.86,
+        "gas":16434.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":128,
+        "timestamp":"12-11 21:00:59",
+        "temperature":30.86,
+        "gas":16512.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":129,
+        "timestamp":"12-11 21:01:04",
+        "temperature":30.86,
+        "gas":16577.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":130,
+        "timestamp":"12-11 21:01:09",
+        "temperature":30.86,
+        "gas":16630.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":131,
+        "timestamp":"12-11 21:01:14",
+        "temperature":30.85,
+        "gas":16564.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":132,
+        "timestamp":"12-11 21:01:19",
+        "temperature":30.85,
+        "gas":16750.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":133,
+        "timestamp":"12-11 21:01:25",
+        "temperature":30.85,
+        "gas":16564.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":134,
+        "timestamp":"12-11 21:01:29",
+        "temperature":30.86,
+        "gas":16857.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":135,
+        "timestamp":"12-11 21:01:35",
+        "temperature":30.86,
+        "gas":16590.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":136,
+        "timestamp":"12-11 21:01:40",
+        "temperature":30.85,
+        "gas":16551.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":137,
+        "timestamp":"12-11 21:01:45",
+        "temperature":30.86,
+        "gas":16564.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":138,
+        "timestamp":"12-11 21:01:50",
+        "temperature":30.85,
+        "gas":16696.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":139,
+        "timestamp":"12-11 21:01:55",
+        "temperature":30.85,
+        "gas":16709.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":140,
+        "timestamp":"12-11 21:02:00",
+        "temperature":30.85,
+        "gas":16564.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":141,
+        "timestamp":"12-11 21:02:05",
+        "temperature":30.85,
+        "gas":16790.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":142,
+        "timestamp":"12-11 21:02:10",
+        "temperature":30.85,
+        "gas":16617.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":143,
+        "timestamp":"12-11 21:02:15",
+        "temperature":30.85,
+        "gas":16617.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":144,
+        "timestamp":"12-11 21:02:21",
+        "temperature":30.86,
+        "gas":16590.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":145,
+        "timestamp":"12-11 21:02:26",
+        "temperature":30.85,
+        "gas":16723.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":146,
+        "timestamp":"12-11 21:02:31",
+        "temperature":30.85,
+        "gas":16630.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":147,
+        "timestamp":"12-11 21:02:36",
+        "temperature":30.85,
+        "gas":16643.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":148,
+        "timestamp":"12-11 21:02:41",
+        "temperature":30.85,
+        "gas":16683.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":149,
+        "timestamp":"12-11 21:02:46",
+        "temperature":30.85,
+        "gas":16243.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":150,
+        "timestamp":"12-11 21:02:51",
+        "temperature":30.85,
+        "gas":16434.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":151,
+        "timestamp":"12-11 21:02:56",
+        "temperature":30.85,
+        "gas":16590.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":152,
+        "timestamp":"12-11 21:03:01",
+        "temperature":30.84,
+        "gas":16512.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":153,
+        "timestamp":"12-11 21:03:06",
+        "temperature":30.84,
+        "gas":16577.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":154,
+        "timestamp":"12-11 21:03:11",
+        "temperature":30.84,
+        "gas":16683.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":155,
+        "timestamp":"12-11 21:03:17",
+        "temperature":30.84,
+        "gas":16736.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":156,
+        "timestamp":"12-11 21:03:22",
+        "temperature":30.84,
+        "gas":16603.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":157,
+        "timestamp":"12-11 21:03:27",
+        "temperature":30.84,
+        "gas":16696.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":158,
+        "timestamp":"12-11 21:03:32",
+        "temperature":30.84,
+        "gas":16656.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":159,
+        "timestamp":"12-11 21:03:37",
+        "temperature":30.84,
+        "gas":16750.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":160,
+        "timestamp":"12-11 21:03:42",
+        "temperature":30.83,
+        "gas":16736.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":161,
+        "timestamp":"12-11 21:03:47",
+        "temperature":30.85,
+        "gas":16643.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":162,
+        "timestamp":"12-11 21:03:52",
+        "temperature":30.85,
+        "gas":16763.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":163,
+        "timestamp":"12-11 21:03:57",
+        "temperature":30.84,
+        "gas":16630.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":164,
+        "timestamp":"12-11 21:04:03",
+        "temperature":30.84,
+        "gas":16763.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":165,
+        "timestamp":"12-11 21:04:08",
+        "temperature":30.84,
+        "gas":16603.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":166,
+        "timestamp":"12-11 21:04:12",
+        "temperature":30.85,
+        "gas":16736.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":167,
+        "timestamp":"12-11 21:04:18",
+        "temperature":30.84,
+        "gas":16817.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":168,
+        "timestamp":"12-11 21:04:23",
+        "temperature":30.84,
+        "gas":16696.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":169,
+        "timestamp":"12-11 21:04:28",
+        "temperature":30.84,
+        "gas":16643.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":170,
+        "timestamp":"12-11 21:04:33",
+        "temperature":30.84,
+        "gas":16723.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":171,
+        "timestamp":"12-11 21:04:38",
+        "temperature":30.84,
+        "gas":16656.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":172,
+        "timestamp":"12-11 21:04:43",
+        "temperature":30.85,
+        "gas":16763.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":173,
+        "timestamp":"12-11 21:04:48",
+        "temperature":30.85,
+        "gas":16656.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":174,
+        "timestamp":"12-11 21:04:53",
+        "temperature":30.85,
+        "gas":16643.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":175,
+        "timestamp":"12-11 21:04:58",
+        "temperature":30.85,
+        "gas":16763.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":176,
+        "timestamp":"12-11 21:05:04",
+        "temperature":30.85,
+        "gas":16803.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":177,
+        "timestamp":"12-11 21:05:09",
+        "temperature":30.85,
+        "gas":16643.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":178,
+        "timestamp":"12-11 21:05:14",
+        "temperature":30.85,
+        "gas":16723.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":179,
+        "timestamp":"12-11 21:05:19",
+        "temperature":30.85,
+        "gas":16763.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":180,
+        "timestamp":"12-11 21:05:24",
+        "temperature":30.85,
+        "gas":16763.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":181,
+        "timestamp":"12-11 21:05:29",
+        "temperature":30.85,
+        "gas":16656.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":182,
+        "timestamp":"12-11 21:05:34",
+        "temperature":30.85,
+        "gas":16776.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":183,
+        "timestamp":"12-11 21:05:39",
+        "temperature":30.85,
+        "gas":16683.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":184,
+        "timestamp":"12-11 21:05:44",
+        "temperature":30.85,
+        "gas":16643.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":185,
+        "timestamp":"12-11 21:05:49",
+        "temperature":30.85,
+        "gas":16551.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":186,
+        "timestamp":"12-11 21:05:54",
+        "temperature":30.86,
+        "gas":16669.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":187,
+        "timestamp":"12-11 21:05:59",
+        "temperature":30.85,
+        "gas":16669.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":188,
+        "timestamp":"12-11 21:06:05",
+        "temperature":30.86,
+        "gas":16912.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":189,
+        "timestamp":"12-11 21:06:10",
+        "temperature":30.86,
+        "gas":16844.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":190,
+        "timestamp":"12-11 21:06:15",
+        "temperature":30.86,
+        "gas":16736.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":191,
+        "timestamp":"12-11 21:06:20",
+        "temperature":30.86,
+        "gas":16696.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":192,
+        "timestamp":"12-11 21:06:25",
+        "temperature":30.86,
+        "gas":16709.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":193,
+        "timestamp":"12-11 21:06:30",
+        "temperature":30.86,
+        "gas":16683.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":194,
+        "timestamp":"12-11 21:06:35",
+        "temperature":30.86,
+        "gas":16803.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":195,
+        "timestamp":"12-11 21:06:41",
+        "temperature":30.86,
+        "gas":16736.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":196,
+        "timestamp":"12-11 21:06:45",
+        "temperature":30.87,
+        "gas":16857.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":197,
+        "timestamp":"12-11 21:06:51",
+        "temperature":30.87,
+        "gas":16817.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":198,
+        "timestamp":"12-11 21:06:56",
+        "temperature":30.87,
+        "gas":16630.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":199,
+        "timestamp":"12-11 21:07:01",
+        "temperature":30.87,
+        "gas":16696.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":200,
+        "timestamp":"12-11 21:07:06",
+        "temperature":30.87,
+        "gas":16736.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":201,
+        "timestamp":"12-11 21:07:11",
+        "temperature":30.88,
+        "gas":16790.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":202,
+        "timestamp":"12-11 21:07:16",
+        "temperature":30.88,
+        "gas":16696.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":203,
+        "timestamp":"12-11 21:07:21",
+        "temperature":30.88,
+        "gas":16656.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":204,
+        "timestamp":"12-11 21:07:26",
+        "temperature":30.88,
+        "gas":16709.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":205,
+        "timestamp":"12-11 21:07:32",
+        "temperature":30.88,
+        "gas":16790.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":206,
+        "timestamp":"12-11 21:07:36",
+        "temperature":30.88,
+        "gas":16763.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":207,
+        "timestamp":"12-11 21:07:41",
+        "temperature":30.88,
+        "gas":16817.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":208,
+        "timestamp":"12-11 21:07:47",
+        "temperature":30.89,
+        "gas":16776.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":209,
+        "timestamp":"12-11 21:07:52",
+        "temperature":30.89,
+        "gas":16683.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":210,
+        "timestamp":"12-11 21:07:57",
+        "temperature":30.89,
+        "gas":16603.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":211,
+        "timestamp":"12-11 21:08:02",
+        "temperature":30.89,
+        "gas":16723.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":212,
+        "timestamp":"12-11 21:08:07",
+        "temperature":30.89,
+        "gas":16630.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":213,
+        "timestamp":"12-11 21:08:12",
+        "temperature":30.89,
+        "gas":16817.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":214,
+        "timestamp":"12-11 21:08:17",
+        "temperature":30.9,
+        "gas":16776.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":215,
+        "timestamp":"12-11 21:08:22",
+        "temperature":30.9,
+        "gas":16790.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":216,
+        "timestamp":"12-11 21:08:28",
+        "temperature":30.89,
+        "gas":16857.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":217,
+        "timestamp":"12-11 21:08:33",
+        "temperature":30.9,
+        "gas":16885.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":218,
+        "timestamp":"12-11 21:08:38",
+        "temperature":30.9,
+        "gas":16709.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":219,
+        "timestamp":"12-11 21:08:43",
+        "temperature":30.9,
+        "gas":16709.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":220,
+        "timestamp":"12-11 21:08:48",
+        "temperature":30.91,
+        "gas":16656.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":221,
+        "timestamp":"12-11 21:08:53",
+        "temperature":30.91,
+        "gas":16736.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":222,
+        "timestamp":"12-11 21:08:58",
+        "temperature":30.91,
+        "gas":16696.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":223,
+        "timestamp":"12-11 21:09:03",
+        "temperature":30.91,
+        "gas":16790.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":224,
+        "timestamp":"12-11 21:09:08",
+        "temperature":30.91,
+        "gas":16603.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":225,
+        "timestamp":"12-11 21:09:13",
+        "temperature":30.91,
+        "gas":16617.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":226,
+        "timestamp":"12-11 21:09:19",
+        "temperature":30.91,
+        "gas":16790.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":227,
+        "timestamp":"12-11 21:09:24",
+        "temperature":30.92,
+        "gas":16656.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":228,
+        "timestamp":"12-11 21:09:29",
+        "temperature":30.92,
+        "gas":16723.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":229,
+        "timestamp":"12-11 21:09:34",
+        "temperature":30.92,
+        "gas":16763.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":230,
+        "timestamp":"12-11 21:09:39",
+        "temperature":30.92,
+        "gas":16736.0,
+        "humidity":41.0,
+        "barometer":1028.89,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":231,
+        "timestamp":"12-11 21:09:44",
+        "temperature":30.92,
+        "gas":16630.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":232,
+        "timestamp":"12-11 21:09:49",
+        "temperature":30.92,
+        "gas":16763.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":233,
+        "timestamp":"12-11 21:09:54",
+        "temperature":30.92,
+        "gas":16790.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":234,
+        "timestamp":"12-11 21:09:59",
+        "temperature":30.92,
+        "gas":16723.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":235,
+        "timestamp":"12-11 21:10:04",
+        "temperature":30.92,
+        "gas":16776.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":236,
+        "timestamp":"12-11 21:10:09",
+        "temperature":30.93,
+        "gas":16617.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":237,
+        "timestamp":"12-11 21:10:14",
+        "temperature":30.93,
+        "gas":16817.0,
+        "humidity":41.0,
+        "barometer":1028.89,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":238,
+        "timestamp":"12-11 21:10:20",
+        "temperature":30.93,
+        "gas":16857.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":239,
+        "timestamp":"12-11 21:10:25",
+        "temperature":30.93,
+        "gas":16790.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":240,
+        "timestamp":"12-11 21:10:30",
+        "temperature":30.93,
+        "gas":16844.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":241,
+        "timestamp":"12-11 21:10:35",
+        "temperature":30.94,
+        "gas":16736.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":242,
+        "timestamp":"12-11 21:10:40",
+        "temperature":30.93,
+        "gas":16709.0,
+        "humidity":41.0,
+        "barometer":1028.89,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":243,
+        "timestamp":"12-11 21:10:45",
+        "temperature":30.94,
+        "gas":16750.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":244,
+        "timestamp":"12-11 21:10:50",
+        "temperature":30.94,
+        "gas":16790.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":245,
+        "timestamp":"12-11 21:10:55",
+        "temperature":30.94,
+        "gas":16803.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":246,
+        "timestamp":"12-11 21:11:00",
+        "temperature":30.94,
+        "gas":16736.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":247,
+        "timestamp":"12-11 21:11:06",
+        "temperature":30.94,
+        "gas":16803.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":248,
+        "timestamp":"12-11 21:11:11",
+        "temperature":30.95,
+        "gas":16736.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":249,
+        "timestamp":"12-11 21:11:16",
+        "temperature":30.95,
+        "gas":16912.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":250,
+        "timestamp":"12-11 21:11:21",
+        "temperature":30.95,
+        "gas":16830.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":251,
+        "timestamp":"12-11 21:11:26",
+        "temperature":30.95,
+        "gas":16803.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":252,
+        "timestamp":"12-11 21:11:31",
+        "temperature":30.95,
+        "gas":16898.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":253,
+        "timestamp":"12-11 21:11:36",
+        "temperature":30.95,
+        "gas":16817.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":254,
+        "timestamp":"12-11 21:11:41",
+        "temperature":30.96,
+        "gas":16912.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":255,
+        "timestamp":"12-11 21:11:47",
+        "temperature":30.95,
+        "gas":16857.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":256,
+        "timestamp":"12-11 21:11:52",
+        "temperature":30.96,
+        "gas":16898.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":257,
+        "timestamp":"12-11 21:11:57",
+        "temperature":30.96,
+        "gas":16790.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":258,
+        "timestamp":"12-11 21:12:02",
+        "temperature":30.96,
+        "gas":16763.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":259,
+        "timestamp":"12-11 21:12:07",
+        "temperature":30.96,
+        "gas":16750.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":260,
+        "timestamp":"12-11 21:12:12",
+        "temperature":30.96,
+        "gas":16871.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":261,
+        "timestamp":"12-11 21:12:17",
+        "temperature":30.96,
+        "gas":16723.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":262,
+        "timestamp":"12-11 21:12:22",
+        "temperature":30.96,
+        "gas":16871.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":263,
+        "timestamp":"12-11 21:12:27",
+        "temperature":30.96,
+        "gas":16669.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":264,
+        "timestamp":"12-11 21:12:32",
+        "temperature":30.97,
+        "gas":16736.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":265,
+        "timestamp":"12-11 21:12:37",
+        "temperature":30.97,
+        "gas":16885.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":266,
+        "timestamp":"12-11 21:12:43",
+        "temperature":30.97,
+        "gas":16696.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":267,
+        "timestamp":"12-11 21:12:47",
+        "temperature":30.97,
+        "gas":16926.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":268,
+        "timestamp":"12-11 21:12:53",
+        "temperature":30.97,
+        "gas":16763.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":269,
+        "timestamp":"12-11 21:12:58",
+        "temperature":30.97,
+        "gas":16709.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":270,
+        "timestamp":"12-11 21:13:03",
+        "temperature":30.98,
+        "gas":16885.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":271,
+        "timestamp":"12-11 21:13:08",
+        "temperature":30.98,
+        "gas":16871.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":272,
+        "timestamp":"12-11 21:13:13",
+        "temperature":30.98,
+        "gas":16871.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":273,
+        "timestamp":"12-11 21:13:18",
+        "temperature":30.98,
+        "gas":16736.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":274,
+        "timestamp":"12-11 21:13:23",
+        "temperature":30.98,
+        "gas":16898.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":275,
+        "timestamp":"12-11 21:13:28",
+        "temperature":30.98,
+        "gas":16723.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.45,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":276,
+        "timestamp":"12-11 21:13:34",
+        "temperature":30.98,
+        "gas":16980.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":277,
+        "timestamp":"12-11 21:13:38",
+        "temperature":30.98,
+        "gas":16736.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":278,
+        "timestamp":"12-11 21:13:44",
+        "temperature":30.98,
+        "gas":16763.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":279,
+        "timestamp":"12-11 21:13:49",
+        "temperature":30.98,
+        "gas":16709.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":280,
+        "timestamp":"12-11 21:13:54",
+        "temperature":30.99,
+        "gas":16763.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":281,
+        "timestamp":"12-11 21:14:00",
+        "temperature":30.99,
+        "gas":16898.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":282,
+        "timestamp":"12-11 21:14:04",
+        "temperature":30.99,
+        "gas":16885.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":283,
+        "timestamp":"12-11 21:14:09",
+        "temperature":30.99,
+        "gas":16736.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":284,
+        "timestamp":"12-11 21:14:14",
+        "temperature":30.99,
+        "gas":16857.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":285,
+        "timestamp":"12-11 21:14:19",
+        "temperature":30.99,
+        "gas":16776.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":286,
+        "timestamp":"12-11 21:14:25",
+        "temperature":30.99,
+        "gas":16912.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":287,
+        "timestamp":"12-11 21:14:29",
+        "temperature":31.0,
+        "gas":16912.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":288,
+        "timestamp":"12-11 21:14:35",
+        "temperature":31.0,
+        "gas":16898.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":289,
+        "timestamp":"12-11 21:14:40",
+        "temperature":31.0,
+        "gas":16763.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":290,
+        "timestamp":"12-11 21:14:45",
+        "temperature":31.0,
+        "gas":16790.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":291,
+        "timestamp":"12-11 21:14:50",
+        "temperature":30.99,
+        "gas":16871.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":292,
+        "timestamp":"12-11 21:14:55",
+        "temperature":31.0,
+        "gas":16953.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":293,
+        "timestamp":"12-11 21:15:00",
+        "temperature":31.0,
+        "gas":16790.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":294,
+        "timestamp":"12-11 21:15:06",
+        "temperature":31.0,
+        "gas":16885.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":295,
+        "timestamp":"12-11 21:15:10",
+        "temperature":31.0,
+        "gas":16763.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":296,
+        "timestamp":"12-11 21:15:16",
+        "temperature":31.01,
+        "gas":16803.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":297,
+        "timestamp":"12-11 21:15:21",
+        "temperature":31.01,
+        "gas":16857.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":298,
+        "timestamp":"12-11 21:15:26",
+        "temperature":31.01,
+        "gas":16790.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":299,
+        "timestamp":"12-11 21:15:31",
+        "temperature":31.01,
+        "gas":16912.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":300,
+        "timestamp":"12-11 21:15:36",
+        "temperature":31.01,
+        "gas":16723.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":301,
+        "timestamp":"12-11 21:15:41",
+        "temperature":31.01,
+        "gas":16857.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":302,
+        "timestamp":"12-11 21:15:46",
+        "temperature":31.01,
+        "gas":16885.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":303,
+        "timestamp":"12-11 21:15:52",
+        "temperature":31.01,
+        "gas":16926.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":304,
+        "timestamp":"12-11 21:15:56",
+        "temperature":31.02,
+        "gas":16803.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":305,
+        "timestamp":"12-11 21:16:02",
+        "temperature":31.01,
+        "gas":16912.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":306,
+        "timestamp":"12-11 21:16:07",
+        "temperature":31.02,
+        "gas":16939.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":307,
+        "timestamp":"12-11 21:16:12",
+        "temperature":31.02,
+        "gas":16912.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":308,
+        "timestamp":"12-11 21:16:17",
+        "temperature":31.01,
+        "gas":16926.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":309,
+        "timestamp":"12-11 21:16:22",
+        "temperature":31.02,
+        "gas":16790.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":310,
+        "timestamp":"12-11 21:16:27",
+        "temperature":31.03,
+        "gas":16696.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":311,
+        "timestamp":"12-11 21:16:32",
+        "temperature":31.02,
+        "gas":16790.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":312,
+        "timestamp":"12-11 21:16:37",
+        "temperature":31.03,
+        "gas":16967.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":313,
+        "timestamp":"12-11 21:16:42",
+        "temperature":31.03,
+        "gas":16898.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":314,
+        "timestamp":"12-11 21:16:48",
+        "temperature":31.03,
+        "gas":16898.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":315,
+        "timestamp":"12-11 21:16:53",
+        "temperature":31.03,
+        "gas":16912.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":316,
+        "timestamp":"12-11 21:16:58",
+        "temperature":31.03,
+        "gas":16912.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":317,
+        "timestamp":"12-11 21:17:03",
+        "temperature":31.03,
+        "gas":16885.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":318,
+        "timestamp":"12-11 21:17:08",
+        "temperature":31.03,
+        "gas":16736.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":319,
+        "timestamp":"12-11 21:17:13",
+        "temperature":31.03,
+        "gas":16776.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":320,
+        "timestamp":"12-11 21:17:18",
+        "temperature":31.04,
+        "gas":16696.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":321,
+        "timestamp":"12-11 21:17:23",
+        "temperature":31.04,
+        "gas":16871.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":322,
+        "timestamp":"12-11 21:17:28",
+        "temperature":31.04,
+        "gas":16790.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":323,
+        "timestamp":"12-11 21:17:33",
+        "temperature":31.04,
+        "gas":16696.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":324,
+        "timestamp":"12-11 21:17:38",
+        "temperature":31.04,
+        "gas":16709.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":325,
+        "timestamp":"12-11 21:17:44",
+        "temperature":31.04,
+        "gas":16776.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":326,
+        "timestamp":"12-11 21:17:49",
+        "temperature":31.04,
+        "gas":16871.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":327,
+        "timestamp":"12-11 21:17:54",
+        "temperature":31.04,
+        "gas":16871.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":328,
+        "timestamp":"12-11 21:17:59",
+        "temperature":31.05,
+        "gas":16857.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":329,
+        "timestamp":"12-11 21:18:04",
+        "temperature":31.04,
+        "gas":16709.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":330,
+        "timestamp":"12-11 21:18:09",
+        "temperature":31.04,
+        "gas":16885.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":331,
+        "timestamp":"12-11 21:18:14",
+        "temperature":31.05,
+        "gas":16939.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":332,
+        "timestamp":"12-11 21:18:20",
+        "temperature":31.05,
+        "gas":16898.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":333,
+        "timestamp":"12-11 21:18:25",
+        "temperature":31.05,
+        "gas":16709.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":334,
+        "timestamp":"12-11 21:18:29",
+        "temperature":31.05,
+        "gas":16912.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":335,
+        "timestamp":"12-11 21:18:35",
+        "temperature":31.06,
+        "gas":16939.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":336,
+        "timestamp":"12-11 21:18:40",
+        "temperature":31.06,
+        "gas":16844.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":337,
+        "timestamp":"12-11 21:18:45",
+        "temperature":31.06,
+        "gas":16926.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":338,
+        "timestamp":"12-11 21:18:51",
+        "temperature":31.06,
+        "gas":17036.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":339,
+        "timestamp":"12-11 21:18:55",
+        "temperature":31.06,
+        "gas":16790.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":340,
+        "timestamp":"12-11 21:19:00",
+        "temperature":31.06,
+        "gas":16926.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":341,
+        "timestamp":"12-11 21:19:05",
+        "temperature":31.07,
+        "gas":16953.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":342,
+        "timestamp":"12-11 21:19:10",
+        "temperature":31.07,
+        "gas":16912.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":343,
+        "timestamp":"12-11 21:19:15",
+        "temperature":31.07,
+        "gas":16980.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":344,
+        "timestamp":"12-11 21:19:21",
+        "temperature":31.07,
+        "gas":16980.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":345,
+        "timestamp":"12-11 21:19:26",
+        "temperature":31.07,
+        "gas":16750.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":346,
+        "timestamp":"12-11 21:19:31",
+        "temperature":31.08,
+        "gas":16994.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":347,
+        "timestamp":"12-11 21:19:36",
+        "temperature":31.07,
+        "gas":16980.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":348,
+        "timestamp":"12-11 21:19:41",
+        "temperature":31.08,
+        "gas":16980.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":349,
+        "timestamp":"12-11 21:19:46",
+        "temperature":31.08,
+        "gas":16939.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":350,
+        "timestamp":"12-11 21:19:51",
+        "temperature":31.08,
+        "gas":16939.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":351,
+        "timestamp":"12-11 21:19:56",
+        "temperature":31.08,
+        "gas":16980.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":352,
+        "timestamp":"12-11 21:20:01",
+        "temperature":31.09,
+        "gas":16926.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":353,
+        "timestamp":"12-11 21:20:06",
+        "temperature":31.09,
+        "gas":16885.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":354,
+        "timestamp":"12-11 21:20:11",
+        "temperature":31.09,
+        "gas":16953.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":355,
+        "timestamp":"12-11 21:20:16",
+        "temperature":31.08,
+        "gas":16898.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":356,
+        "timestamp":"12-11 21:20:21",
+        "temperature":31.09,
+        "gas":16871.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":357,
+        "timestamp":"12-11 21:20:27",
+        "temperature":31.09,
+        "gas":16817.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":358,
+        "timestamp":"12-11 21:20:32",
+        "temperature":31.09,
+        "gas":16953.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":359,
+        "timestamp":"12-11 21:20:37",
+        "temperature":31.09,
+        "gas":16776.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":360,
+        "timestamp":"12-11 21:20:42",
+        "temperature":31.09,
+        "gas":16926.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":361,
+        "timestamp":"12-11 21:20:47",
+        "temperature":31.09,
+        "gas":16967.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":362,
+        "timestamp":"12-11 21:20:52",
+        "temperature":31.1,
+        "gas":16912.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":363,
+        "timestamp":"12-11 21:20:58",
+        "temperature":31.1,
+        "gas":16939.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":364,
+        "timestamp":"12-11 21:21:03",
+        "temperature":31.11,
+        "gas":16939.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":365,
+        "timestamp":"12-11 21:21:07",
+        "temperature":31.11,
+        "gas":16912.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":366,
+        "timestamp":"12-11 21:21:13",
+        "temperature":31.1,
+        "gas":16590.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":367,
+        "timestamp":"12-11 21:21:18",
+        "temperature":31.1,
+        "gas":16617.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":368,
+        "timestamp":"12-11 21:21:23",
+        "temperature":31.11,
+        "gas":16603.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":369,
+        "timestamp":"12-11 21:21:28",
+        "temperature":31.11,
+        "gas":16669.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":370,
+        "timestamp":"12-11 21:21:33",
+        "temperature":31.12,
+        "gas":16736.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":371,
+        "timestamp":"12-11 21:21:38",
+        "temperature":31.12,
+        "gas":16696.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":372,
+        "timestamp":"12-11 21:21:43",
+        "temperature":31.12,
+        "gas":16709.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":373,
+        "timestamp":"12-11 21:21:48",
+        "temperature":31.12,
+        "gas":16776.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":374,
+        "timestamp":"12-11 21:21:54",
+        "temperature":31.12,
+        "gas":16736.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":375,
+        "timestamp":"12-11 21:21:58",
+        "temperature":31.12,
+        "gas":16750.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":376,
+        "timestamp":"12-11 21:22:04",
+        "temperature":31.13,
+        "gas":16790.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":377,
+        "timestamp":"12-11 21:22:09",
+        "temperature":31.12,
+        "gas":16790.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":378,
+        "timestamp":"12-11 21:22:14",
+        "temperature":31.13,
+        "gas":16803.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":379,
+        "timestamp":"12-11 21:22:19",
+        "temperature":31.13,
+        "gas":16736.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":380,
+        "timestamp":"12-11 21:22:24",
+        "temperature":31.13,
+        "gas":16590.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":381,
+        "timestamp":"12-11 21:22:29",
+        "temperature":31.13,
+        "gas":16736.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":382,
+        "timestamp":"12-11 21:22:34",
+        "temperature":31.13,
+        "gas":16617.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":383,
+        "timestamp":"12-11 21:22:40",
+        "temperature":31.13,
+        "gas":16723.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":384,
+        "timestamp":"12-11 21:22:44",
+        "temperature":31.13,
+        "gas":16617.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":385,
+        "timestamp":"12-11 21:22:50",
+        "temperature":31.14,
+        "gas":16736.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":386,
+        "timestamp":"12-11 21:22:55",
+        "temperature":31.14,
+        "gas":16709.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":387,
+        "timestamp":"12-11 21:23:00",
+        "temperature":31.14,
+        "gas":16696.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":388,
+        "timestamp":"12-11 21:23:05",
+        "temperature":31.14,
+        "gas":16830.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":389,
+        "timestamp":"12-11 21:23:10",
+        "temperature":31.15,
+        "gas":16669.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":390,
+        "timestamp":"12-11 21:23:15",
+        "temperature":31.14,
+        "gas":16590.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":391,
+        "timestamp":"12-11 21:23:20",
+        "temperature":31.15,
+        "gas":16656.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":392,
+        "timestamp":"12-11 21:23:25",
+        "temperature":31.15,
+        "gas":16669.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":393,
+        "timestamp":"12-11 21:23:30",
+        "temperature":31.15,
+        "gas":15789.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":394,
+        "timestamp":"12-11 21:23:36",
+        "temperature":31.15,
+        "gas":16192.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":395,
+        "timestamp":"12-11 21:23:40",
+        "temperature":31.15,
+        "gas":16447.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":396,
+        "timestamp":"12-11 21:23:46",
+        "temperature":31.16,
+        "gas":16486.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":397,
+        "timestamp":"12-11 21:23:51",
+        "temperature":31.16,
+        "gas":16551.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":398,
+        "timestamp":"12-11 21:23:56",
+        "temperature":31.16,
+        "gas":16538.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":399,
+        "timestamp":"12-11 21:24:01",
+        "temperature":31.16,
+        "gas":16473.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":400,
+        "timestamp":"12-11 21:24:06",
+        "temperature":31.16,
+        "gas":16590.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":401,
+        "timestamp":"12-11 21:24:11",
+        "temperature":31.16,
+        "gas":16525.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":402,
+        "timestamp":"12-11 21:24:16",
+        "temperature":31.16,
+        "gas":16551.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":403,
+        "timestamp":"12-11 21:24:21",
+        "temperature":31.16,
+        "gas":16577.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":404,
+        "timestamp":"12-11 21:24:27",
+        "temperature":31.17,
+        "gas":16525.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":405,
+        "timestamp":"12-11 21:24:32",
+        "temperature":31.17,
+        "gas":16395.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":406,
+        "timestamp":"12-11 21:24:37",
+        "temperature":31.17,
+        "gas":16486.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":407,
+        "timestamp":"12-11 21:24:42",
+        "temperature":31.17,
+        "gas":16551.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":408,
+        "timestamp":"12-11 21:24:47",
+        "temperature":31.18,
+        "gas":16460.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":409,
+        "timestamp":"12-11 21:24:52",
+        "temperature":31.18,
+        "gas":16344.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":410,
+        "timestamp":"12-11 21:24:57",
+        "temperature":31.18,
+        "gas":16395.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":411,
+        "timestamp":"12-11 21:25:02",
+        "temperature":31.18,
+        "gas":16473.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":412,
+        "timestamp":"12-11 21:25:07",
+        "temperature":31.18,
+        "gas":16408.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":413,
+        "timestamp":"12-11 21:25:12",
+        "temperature":31.19,
+        "gas":16460.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":414,
+        "timestamp":"12-11 21:25:18",
+        "temperature":31.19,
+        "gas":16590.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":415,
+        "timestamp":"12-11 21:25:23",
+        "temperature":31.19,
+        "gas":16408.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":416,
+        "timestamp":"12-11 21:25:28",
+        "temperature":31.19,
+        "gas":16434.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":417,
+        "timestamp":"12-11 21:25:33",
+        "temperature":31.19,
+        "gas":16395.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":418,
+        "timestamp":"12-11 21:25:38",
+        "temperature":31.2,
+        "gas":16460.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":419,
+        "timestamp":"12-11 21:25:43",
+        "temperature":31.2,
+        "gas":16344.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":420,
+        "timestamp":"12-11 21:25:48",
+        "temperature":31.2,
+        "gas":16319.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":421,
+        "timestamp":"12-11 21:25:53",
+        "temperature":31.2,
+        "gas":16486.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":422,
+        "timestamp":"12-11 21:25:58",
+        "temperature":31.2,
+        "gas":14682.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":423,
+        "timestamp":"12-11 21:26:03",
+        "temperature":31.21,
+        "gas":15238.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":424,
+        "timestamp":"12-11 21:26:08",
+        "temperature":31.21,
+        "gas":15934.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":425,
+        "timestamp":"12-11 21:26:14",
+        "temperature":31.21,
+        "gas":16293.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":426,
+        "timestamp":"12-11 21:26:19",
+        "temperature":31.21,
+        "gas":16192.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":427,
+        "timestamp":"12-11 21:26:24",
+        "temperature":31.21,
+        "gas":16293.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":428,
+        "timestamp":"12-11 21:26:29",
+        "temperature":31.22,
+        "gas":16306.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":429,
+        "timestamp":"12-11 21:26:34",
+        "temperature":31.22,
+        "gas":16268.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":430,
+        "timestamp":"12-11 21:26:39",
+        "temperature":31.22,
+        "gas":16281.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":431,
+        "timestamp":"12-11 21:26:44",
+        "temperature":31.22,
+        "gas":16293.0,
+        "humidity":41.0,
+        "barometer":1028.87,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":432,
+        "timestamp":"12-11 21:26:49",
+        "temperature":31.22,
+        "gas":16293.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":433,
+        "timestamp":"12-11 21:26:54",
+        "temperature":31.23,
+        "gas":16306.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":434,
+        "timestamp":"12-11 21:27:00",
+        "temperature":31.23,
+        "gas":16319.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":435,
+        "timestamp":"12-11 21:27:05",
+        "temperature":31.24,
+        "gas":16306.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":436,
+        "timestamp":"12-11 21:27:10",
+        "temperature":31.24,
+        "gas":16167.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":437,
+        "timestamp":"12-11 21:27:15",
+        "temperature":31.24,
+        "gas":16293.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":438,
+        "timestamp":"12-11 21:27:20",
+        "temperature":31.24,
+        "gas":16370.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":439,
+        "timestamp":"12-11 21:27:25",
+        "temperature":31.24,
+        "gas":16408.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":440,
+        "timestamp":"12-11 21:27:30",
+        "temperature":31.25,
+        "gas":16370.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":441,
+        "timestamp":"12-11 21:27:35",
+        "temperature":31.25,
+        "gas":16306.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":442,
+        "timestamp":"12-11 21:27:40",
+        "temperature":31.25,
+        "gas":16293.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":443,
+        "timestamp":"12-11 21:27:46",
+        "temperature":31.25,
+        "gas":16180.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":444,
+        "timestamp":"12-11 21:27:51",
+        "temperature":31.25,
+        "gas":16105.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":445,
+        "timestamp":"12-11 21:27:56",
+        "temperature":31.26,
+        "gas":16180.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":446,
+        "timestamp":"12-11 21:28:01",
+        "temperature":31.26,
+        "gas":16205.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":447,
+        "timestamp":"12-11 21:28:06",
+        "temperature":31.26,
+        "gas":16192.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":448,
+        "timestamp":"12-11 21:28:11",
+        "temperature":31.26,
+        "gas":16192.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":449,
+        "timestamp":"12-11 21:28:16",
+        "temperature":31.27,
+        "gas":16255.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":450,
+        "timestamp":"12-11 21:28:21",
+        "temperature":31.27,
+        "gas":16180.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":451,
+        "timestamp":"12-11 21:28:26",
+        "temperature":31.27,
+        "gas":16118.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":452,
+        "timestamp":"12-11 21:28:31",
+        "temperature":31.28,
+        "gas":16093.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":453,
+        "timestamp":"12-11 21:28:36",
+        "temperature":31.27,
+        "gas":16230.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":454,
+        "timestamp":"12-11 21:28:41",
+        "temperature":31.28,
+        "gas":16143.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":455,
+        "timestamp":"12-11 21:28:46",
+        "temperature":31.28,
+        "gas":16044.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":456,
+        "timestamp":"12-11 21:28:51",
+        "temperature":31.28,
+        "gas":16268.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":457,
+        "timestamp":"12-11 21:28:56",
+        "temperature":31.28,
+        "gas":16031.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":458,
+        "timestamp":"12-11 21:29:02",
+        "temperature":31.29,
+        "gas":16044.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":459,
+        "timestamp":"12-11 21:29:07",
+        "temperature":31.29,
+        "gas":16118.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":460,
+        "timestamp":"12-11 21:29:12",
+        "temperature":31.29,
+        "gas":16019.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":461,
+        "timestamp":"12-11 21:29:17",
+        "temperature":31.29,
+        "gas":16031.0,
+        "humidity":41.0,
+        "barometer":1028.85,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":462,
+        "timestamp":"12-11 21:29:22",
+        "temperature":31.3,
+        "gas":16105.0,
+        "humidity":41.0,
+        "barometer":1028.83,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":463,
+        "timestamp":"12-11 21:29:27",
+        "temperature":31.3,
+        "gas":15982.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":464,
+        "timestamp":"12-11 21:29:32",
+        "temperature":31.3,
+        "gas":16019.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":465,
+        "timestamp":"12-11 21:29:37",
+        "temperature":31.3,
+        "gas":16118.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":466,
+        "timestamp":"12-11 21:29:43",
+        "temperature":31.31,
+        "gas":15995.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":467,
+        "timestamp":"12-11 21:29:48",
+        "temperature":31.31,
+        "gas":15982.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":468,
+        "timestamp":"12-11 21:29:53",
+        "temperature":31.31,
+        "gas":16031.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":469,
+        "timestamp":"12-11 21:29:58",
+        "temperature":31.31,
+        "gas":16130.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":470,
+        "timestamp":"12-11 21:30:03",
+        "temperature":31.32,
+        "gas":16143.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":471,
+        "timestamp":"12-11 21:30:09",
+        "temperature":31.32,
+        "gas":16007.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":472,
+        "timestamp":"12-11 21:30:13",
+        "temperature":31.32,
+        "gas":16093.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":473,
+        "timestamp":"12-11 21:30:18",
+        "temperature":31.32,
+        "gas":16044.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":474,
+        "timestamp":"12-11 21:30:23",
+        "temperature":31.33,
+        "gas":16019.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":475,
+        "timestamp":"12-11 21:30:28",
+        "temperature":31.33,
+        "gas":15660.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":476,
+        "timestamp":"12-11 21:30:34",
+        "temperature":31.33,
+        "gas":15766.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":477,
+        "timestamp":"12-11 21:30:39",
+        "temperature":31.33,
+        "gas":15934.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":478,
+        "timestamp":"12-11 21:30:44",
+        "temperature":31.34,
+        "gas":16031.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":479,
+        "timestamp":"12-11 21:30:49",
+        "temperature":31.34,
+        "gas":15946.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":480,
+        "timestamp":"12-11 21:30:54",
+        "temperature":31.34,
+        "gas":15970.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":481,
+        "timestamp":"12-11 21:31:00",
+        "temperature":31.35,
+        "gas":15982.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":482,
+        "timestamp":"12-11 21:31:04",
+        "temperature":31.34,
+        "gas":15813.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":483,
+        "timestamp":"12-11 21:31:14",
+        "temperature":31.35,
+        "gas":15909.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":484,
+        "timestamp":"12-11 21:31:15",
+        "temperature":31.36,
+        "gas":15922.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":485,
+        "timestamp":"12-11 21:31:20",
+        "temperature":31.36,
+        "gas":15946.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":486,
+        "timestamp":"12-11 21:31:25",
+        "temperature":31.36,
+        "gas":15909.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":487,
+        "timestamp":"12-11 21:31:30",
+        "temperature":31.36,
+        "gas":15861.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":488,
+        "timestamp":"12-11 21:31:35",
+        "temperature":31.36,
+        "gas":15885.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":489,
+        "timestamp":"12-11 21:31:40",
+        "temperature":31.37,
+        "gas":15909.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":490,
+        "timestamp":"12-11 21:31:45",
+        "temperature":31.37,
+        "gas":15946.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":491,
+        "timestamp":"12-11 21:31:50",
+        "temperature":31.37,
+        "gas":15849.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":492,
+        "timestamp":"12-11 21:31:55",
+        "temperature":31.38,
+        "gas":15825.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":493,
+        "timestamp":"12-11 21:32:00",
+        "temperature":31.38,
+        "gas":15849.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":494,
+        "timestamp":"12-11 21:32:05",
+        "temperature":31.38,
+        "gas":15897.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":495,
+        "timestamp":"12-11 21:32:11",
+        "temperature":31.38,
+        "gas":15861.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":496,
+        "timestamp":"12-11 21:32:16",
+        "temperature":31.39,
+        "gas":14340.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":497,
+        "timestamp":"12-11 21:32:21",
+        "temperature":31.39,
+        "gas":14775.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":498,
+        "timestamp":"12-11 21:32:26",
+        "temperature":31.39,
+        "gas":15417.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":499,
+        "timestamp":"12-11 21:32:31",
+        "temperature":31.4,
+        "gas":15601.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":500,
+        "timestamp":"12-11 21:32:36",
+        "temperature":31.4,
+        "gas":15566.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":501,
+        "timestamp":"12-11 21:32:41",
+        "temperature":31.41,
+        "gas":15718.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":502,
+        "timestamp":"12-11 21:32:46",
+        "temperature":31.41,
+        "gas":15660.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":503,
+        "timestamp":"12-11 21:32:51",
+        "temperature":31.41,
+        "gas":15707.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":504,
+        "timestamp":"12-11 21:32:56",
+        "temperature":31.42,
+        "gas":15825.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":505,
+        "timestamp":"12-11 21:33:01",
+        "temperature":31.42,
+        "gas":15754.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":506,
+        "timestamp":"12-11 21:33:07",
+        "temperature":31.42,
+        "gas":15730.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":507,
+        "timestamp":"12-11 21:33:12",
+        "temperature":31.42,
+        "gas":15730.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":508,
+        "timestamp":"12-11 21:33:17",
+        "temperature":31.43,
+        "gas":15707.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":509,
+        "timestamp":"12-11 21:33:22",
+        "temperature":31.43,
+        "gas":15707.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":510,
+        "timestamp":"12-11 21:33:27",
+        "temperature":31.44,
+        "gas":15742.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":511,
+        "timestamp":"12-11 21:33:32",
+        "temperature":31.44,
+        "gas":15825.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":512,
+        "timestamp":"12-11 21:33:37",
+        "temperature":31.45,
+        "gas":15813.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":513,
+        "timestamp":"12-11 21:33:42",
+        "temperature":31.45,
+        "gas":15683.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":514,
+        "timestamp":"12-11 21:33:47",
+        "temperature":31.45,
+        "gas":15754.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":515,
+        "timestamp":"12-11 21:33:52",
+        "temperature":31.46,
+        "gas":15730.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":516,
+        "timestamp":"12-11 21:33:58",
+        "temperature":31.46,
+        "gas":15707.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":517,
+        "timestamp":"12-11 21:34:03",
+        "temperature":31.46,
+        "gas":15742.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":518,
+        "timestamp":"12-11 21:34:08",
+        "temperature":31.46,
+        "gas":15695.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":519,
+        "timestamp":"12-11 21:34:13",
+        "temperature":31.47,
+        "gas":15730.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":520,
+        "timestamp":"12-11 21:34:18",
+        "temperature":31.48,
+        "gas":15671.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":521,
+        "timestamp":"12-11 21:34:23",
+        "temperature":31.48,
+        "gas":15742.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":522,
+        "timestamp":"12-11 21:34:28",
+        "temperature":31.49,
+        "gas":15671.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":523,
+        "timestamp":"12-11 21:34:33",
+        "temperature":31.49,
+        "gas":15671.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":524,
+        "timestamp":"12-11 21:34:39",
+        "temperature":31.49,
+        "gas":15825.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":525,
+        "timestamp":"12-11 21:34:43",
+        "temperature":31.5,
+        "gas":15742.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":526,
+        "timestamp":"12-11 21:34:49",
+        "temperature":31.5,
+        "gas":15660.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":527,
+        "timestamp":"12-11 21:34:54",
+        "temperature":31.51,
+        "gas":15625.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":528,
+        "timestamp":"12-11 21:34:59",
+        "temperature":31.51,
+        "gas":15660.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":529,
+        "timestamp":"12-11 21:35:04",
+        "temperature":31.51,
+        "gas":15825.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":530,
+        "timestamp":"12-11 21:35:09",
+        "temperature":31.52,
+        "gas":15520.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":531,
+        "timestamp":"12-11 21:35:14",
+        "temperature":31.52,
+        "gas":15742.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":532,
+        "timestamp":"12-11 21:35:19",
+        "temperature":31.53,
+        "gas":15718.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":533,
+        "timestamp":"12-11 21:35:24",
+        "temperature":31.53,
+        "gas":15825.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":534,
+        "timestamp":"12-11 21:35:29",
+        "temperature":31.53,
+        "gas":15801.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":535,
+        "timestamp":"12-11 21:35:35",
+        "temperature":31.54,
+        "gas":15742.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":536,
+        "timestamp":"12-11 21:35:40",
+        "temperature":31.54,
+        "gas":15718.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":537,
+        "timestamp":"12-11 21:35:45",
+        "temperature":31.55,
+        "gas":15766.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":538,
+        "timestamp":"12-11 21:35:50",
+        "temperature":31.55,
+        "gas":15766.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":539,
+        "timestamp":"12-11 21:35:55",
+        "temperature":31.56,
+        "gas":15695.0,
+        "humidity":41.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":540,
+        "timestamp":"12-11 21:36:00",
+        "temperature":31.56,
+        "gas":15683.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":541,
+        "timestamp":"12-11 21:36:05",
+        "temperature":31.56,
+        "gas":15636.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":542,
+        "timestamp":"12-11 21:36:10",
+        "temperature":31.57,
+        "gas":15707.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":543,
+        "timestamp":"12-11 21:36:15",
+        "temperature":31.57,
+        "gas":15718.0,
+        "humidity":41.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":544,
+        "timestamp":"12-11 21:36:20",
+        "temperature":31.58,
+        "gas":15601.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":545,
+        "timestamp":"12-11 21:36:26",
+        "temperature":31.58,
+        "gas":15837.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":546,
+        "timestamp":"12-11 21:36:31",
+        "temperature":31.58,
+        "gas":15636.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":547,
+        "timestamp":"12-11 21:36:36",
+        "temperature":31.58,
+        "gas":15601.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":548,
+        "timestamp":"12-11 21:36:41",
+        "temperature":31.59,
+        "gas":15695.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":549,
+        "timestamp":"12-11 21:36:46",
+        "temperature":31.59,
+        "gas":15555.0,
+        "humidity":41.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":550,
+        "timestamp":"12-11 21:36:51",
+        "temperature":31.59,
+        "gas":15683.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":551,
+        "timestamp":"12-11 21:36:56",
+        "temperature":31.6,
+        "gas":15601.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":552,
+        "timestamp":"12-11 21:37:01",
+        "temperature":31.6,
+        "gas":15695.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":553,
+        "timestamp":"12-11 21:37:07",
+        "temperature":31.6,
+        "gas":15578.0,
+        "humidity":41.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":554,
+        "timestamp":"12-11 21:37:12",
+        "temperature":31.61,
+        "gas":15601.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":555,
+        "timestamp":"12-11 21:37:17",
+        "temperature":31.61,
+        "gas":15707.0,
+        "humidity":41.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":556,
+        "timestamp":"12-11 21:37:22",
+        "temperature":31.61,
+        "gas":15636.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":557,
+        "timestamp":"12-11 21:37:27",
+        "temperature":31.62,
+        "gas":15532.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":558,
+        "timestamp":"12-11 21:37:32",
+        "temperature":31.62,
+        "gas":15601.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":559,
+        "timestamp":"12-11 21:37:37",
+        "temperature":31.62,
+        "gas":15648.0,
+        "humidity":41.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":560,
+        "timestamp":"12-11 21:37:42",
+        "temperature":31.63,
+        "gas":15578.0,
+        "humidity":41.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":561,
+        "timestamp":"12-11 21:37:47",
+        "temperature":31.63,
+        "gas":15509.0,
+        "humidity":41.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":562,
+        "timestamp":"12-11 21:37:52",
+        "temperature":31.63,
+        "gas":15543.0,
+        "humidity":41.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":563,
+        "timestamp":"12-11 21:37:58",
+        "temperature":31.63,
+        "gas":15578.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":564,
+        "timestamp":"12-11 21:38:03",
+        "temperature":31.64,
+        "gas":15625.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":565,
+        "timestamp":"12-11 21:38:08",
+        "temperature":31.64,
+        "gas":15613.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":566,
+        "timestamp":"12-11 21:38:13",
+        "temperature":31.64,
+        "gas":15707.0,
+        "humidity":41.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":567,
+        "timestamp":"12-11 21:38:18",
+        "temperature":31.65,
+        "gas":15555.0,
+        "humidity":41.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":568,
+        "timestamp":"12-11 21:38:23",
+        "temperature":31.65,
+        "gas":15590.0,
+        "humidity":41.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":569,
+        "timestamp":"12-11 21:38:28",
+        "temperature":31.65,
+        "gas":15613.0,
+        "humidity":41.0,
+        "barometer":1028.72,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":570,
+        "timestamp":"12-11 21:38:33",
+        "temperature":31.65,
+        "gas":15555.0,
+        "humidity":41.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":571,
+        "timestamp":"12-11 21:38:38",
+        "temperature":31.65,
+        "gas":15543.0,
+        "humidity":41.0,
+        "barometer":1028.72,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":572,
+        "timestamp":"12-11 21:38:43",
+        "temperature":31.66,
+        "gas":15509.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":573,
+        "timestamp":"12-11 21:38:49",
+        "temperature":31.66,
+        "gas":15543.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":574,
+        "timestamp":"12-11 21:38:54",
+        "temperature":31.66,
+        "gas":15636.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":575,
+        "timestamp":"12-11 21:38:59",
+        "temperature":31.67,
+        "gas":15543.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":576,
+        "timestamp":"12-11 21:39:04",
+        "temperature":31.67,
+        "gas":15683.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":577,
+        "timestamp":"12-11 21:39:09",
+        "temperature":31.67,
+        "gas":15671.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":578,
+        "timestamp":"12-11 21:39:14",
+        "temperature":31.67,
+        "gas":15555.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":579,
+        "timestamp":"12-11 21:39:19",
+        "temperature":31.68,
+        "gas":15566.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":580,
+        "timestamp":"12-11 21:39:24",
+        "temperature":31.68,
+        "gas":15566.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":581,
+        "timestamp":"12-11 21:39:29",
+        "temperature":31.68,
+        "gas":15730.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":582,
+        "timestamp":"12-11 21:39:34",
+        "temperature":31.68,
+        "gas":15730.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":583,
+        "timestamp":"12-11 21:39:39",
+        "temperature":31.68,
+        "gas":15683.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":584,
+        "timestamp":"12-11 21:39:44",
+        "temperature":31.68,
+        "gas":15566.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":585,
+        "timestamp":"12-11 21:39:50",
+        "temperature":31.68,
+        "gas":15730.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":586,
+        "timestamp":"12-11 21:39:55",
+        "temperature":31.68,
+        "gas":15625.0,
+        "humidity":41.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":587,
+        "timestamp":"12-11 21:40:00",
+        "temperature":31.69,
+        "gas":15613.0,
+        "humidity":41.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":588,
+        "timestamp":"12-11 21:40:05",
+        "temperature":31.69,
+        "gas":15509.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":589,
+        "timestamp":"12-11 21:40:10",
+        "temperature":31.68,
+        "gas":15429.0,
+        "humidity":40.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":590,
+        "timestamp":"12-11 21:40:15",
+        "temperature":31.69,
+        "gas":15474.0,
+        "humidity":40.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":591,
+        "timestamp":"12-11 21:40:20",
+        "temperature":31.69,
+        "gas":15486.0,
+        "humidity":40.0,
+        "barometer":1028.72,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":592,
+        "timestamp":"12-11 21:40:25",
+        "temperature":31.69,
+        "gas":15486.0,
+        "humidity":40.0,
+        "barometer":1028.72,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":593,
+        "timestamp":"12-11 21:40:30",
+        "temperature":31.7,
+        "gas":15440.0,
+        "humidity":41.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":594,
+        "timestamp":"12-11 21:40:35",
+        "temperature":31.7,
+        "gas":15406.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":595,
+        "timestamp":"12-11 21:40:40",
+        "temperature":31.7,
+        "gas":15406.0,
+        "humidity":41.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":596,
+        "timestamp":"12-11 21:40:45",
+        "temperature":31.7,
+        "gas":15474.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":597,
+        "timestamp":"12-11 21:40:51",
+        "temperature":31.7,
+        "gas":15486.0,
+        "humidity":40.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":598,
+        "timestamp":"12-11 21:40:56",
+        "temperature":31.71,
+        "gas":15327.0,
+        "humidity":40.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":599,
+        "timestamp":"12-11 21:41:01",
+        "temperature":31.71,
+        "gas":15282.0,
+        "humidity":41.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":600,
+        "timestamp":"12-11 21:41:06",
+        "temperature":31.7,
+        "gas":15417.0,
+        "humidity":41.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":601,
+        "timestamp":"12-11 21:41:11",
+        "temperature":31.71,
+        "gas":15406.0,
+        "humidity":41.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":602,
+        "timestamp":"12-11 21:41:16",
+        "temperature":31.7,
+        "gas":15406.0,
+        "humidity":41.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":603,
+        "timestamp":"12-11 21:41:21",
+        "temperature":31.71,
+        "gas":15361.0,
+        "humidity":41.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":604,
+        "timestamp":"12-11 21:41:26",
+        "temperature":31.71,
+        "gas":15474.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":605,
+        "timestamp":"12-11 21:41:32",
+        "temperature":31.71,
+        "gas":15406.0,
+        "humidity":41.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":606,
+        "timestamp":"12-11 21:41:36",
+        "temperature":31.72,
+        "gas":15440.0,
+        "humidity":41.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":607,
+        "timestamp":"12-11 21:41:42",
+        "temperature":31.71,
+        "gas":15417.0,
+        "humidity":41.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":608,
+        "timestamp":"12-11 21:41:47",
+        "temperature":31.71,
+        "gas":15452.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":609,
+        "timestamp":"12-11 21:41:52",
+        "temperature":31.71,
+        "gas":15520.0,
+        "humidity":41.0,
+        "barometer":1028.72,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":610,
+        "timestamp":"12-11 21:41:57",
+        "temperature":31.72,
+        "gas":15452.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":611,
+        "timestamp":"12-11 21:42:02",
+        "temperature":31.71,
+        "gas":15555.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":612,
+        "timestamp":"12-11 21:42:07",
+        "temperature":31.72,
+        "gas":15429.0,
+        "humidity":41.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":613,
+        "timestamp":"12-11 21:42:13",
+        "temperature":31.72,
+        "gas":15452.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":614,
+        "timestamp":"12-11 21:42:17",
+        "temperature":31.72,
+        "gas":15555.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":615,
+        "timestamp":"12-11 21:42:22",
+        "temperature":31.72,
+        "gas":15383.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":616,
+        "timestamp":"12-11 21:42:28",
+        "temperature":31.72,
+        "gas":15372.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":617,
+        "timestamp":"12-11 21:42:32",
+        "temperature":31.72,
+        "gas":15486.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":618,
+        "timestamp":"12-11 21:42:38",
+        "temperature":31.72,
+        "gas":15566.0,
+        "humidity":41.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":619,
+        "timestamp":"12-11 21:42:43",
+        "temperature":31.72,
+        "gas":15613.0,
+        "humidity":41.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":620,
+        "timestamp":"12-11 21:42:48",
+        "temperature":31.72,
+        "gas":15613.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":621,
+        "timestamp":"12-11 21:42:53",
+        "temperature":31.72,
+        "gas":15636.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":622,
+        "timestamp":"12-11 21:42:58",
+        "temperature":31.72,
+        "gas":15566.0,
+        "humidity":40.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":623,
+        "timestamp":"12-11 21:43:05",
+        "temperature":31.72,
+        "gas":15566.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":624,
+        "timestamp":"12-11 21:43:08",
+        "temperature":31.72,
+        "gas":15648.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":625,
+        "timestamp":"12-11 21:43:13",
+        "temperature":31.72,
+        "gas":15543.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":626,
+        "timestamp":"12-11 21:43:18",
+        "temperature":31.72,
+        "gas":15648.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":627,
+        "timestamp":"12-11 21:43:24",
+        "temperature":31.72,
+        "gas":15648.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":628,
+        "timestamp":"12-11 21:43:29",
+        "temperature":31.72,
+        "gas":15590.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.25,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":629,
+        "timestamp":"12-11 21:43:34",
+        "temperature":31.72,
+        "gas":15474.0,
+        "humidity":40.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":630,
+        "timestamp":"12-11 21:43:41",
+        "temperature":31.72,
+        "gas":15625.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":631,
+        "timestamp":"12-11 21:43:44",
+        "temperature":31.72,
+        "gas":15683.0,
+        "humidity":40.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":632,
+        "timestamp":"12-11 21:43:49",
+        "temperature":31.72,
+        "gas":15543.0,
+        "humidity":40.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":633,
+        "timestamp":"12-11 21:43:54",
+        "temperature":31.72,
+        "gas":15695.0,
+        "humidity":40.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":634,
+        "timestamp":"12-11 21:43:59",
+        "temperature":31.72,
+        "gas":15532.0,
+        "humidity":40.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":635,
+        "timestamp":"12-11 21:44:04",
+        "temperature":31.72,
+        "gas":15695.0,
+        "humidity":40.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":636,
+        "timestamp":"12-11 21:44:09",
+        "temperature":31.71,
+        "gas":15660.0,
+        "humidity":40.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":637,
+        "timestamp":"12-11 21:44:15",
+        "temperature":31.72,
+        "gas":15590.0,
+        "humidity":40.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":638,
+        "timestamp":"12-11 21:44:20",
+        "temperature":31.71,
+        "gas":15742.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":639,
+        "timestamp":"12-11 21:44:25",
+        "temperature":31.72,
+        "gas":15754.0,
+        "humidity":40.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":640,
+        "timestamp":"12-11 21:44:30",
+        "temperature":31.71,
+        "gas":15813.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":641,
+        "timestamp":"12-11 21:44:35",
+        "temperature":31.72,
+        "gas":15825.0,
+        "humidity":40.0,
+        "barometer":1028.8,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":642,
+        "timestamp":"12-11 21:44:40",
+        "temperature":31.71,
+        "gas":15778.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":643,
+        "timestamp":"12-11 21:44:45",
+        "temperature":31.71,
+        "gas":15801.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":644,
+        "timestamp":"12-11 21:44:50",
+        "temperature":31.71,
+        "gas":15873.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":645,
+        "timestamp":"12-11 21:44:56",
+        "temperature":31.7,
+        "gas":15922.0,
+        "humidity":40.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":646,
+        "timestamp":"12-11 21:45:01",
+        "temperature":31.71,
+        "gas":15683.0,
+        "humidity":40.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":647,
+        "timestamp":"12-11 21:45:06",
+        "temperature":31.71,
+        "gas":15754.0,
+        "humidity":40.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":648,
+        "timestamp":"12-11 21:45:11",
+        "temperature":31.7,
+        "gas":15648.0,
+        "humidity":40.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":649,
+        "timestamp":"12-11 21:45:16",
+        "temperature":31.7,
+        "gas":15897.0,
+        "humidity":40.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":650,
+        "timestamp":"12-11 21:45:21",
+        "temperature":31.7,
+        "gas":15778.0,
+        "humidity":40.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":651,
+        "timestamp":"12-11 21:45:26",
+        "temperature":31.7,
+        "gas":15813.0,
+        "humidity":40.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":652,
+        "timestamp":"12-11 21:45:31",
+        "temperature":31.7,
+        "gas":16068.0,
+        "humidity":40.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":653,
+        "timestamp":"12-11 21:45:37",
+        "temperature":31.69,
+        "gas":16155.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":654,
+        "timestamp":"12-11 21:45:41",
+        "temperature":31.69,
+        "gas":16044.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":655,
+        "timestamp":"12-11 21:45:47",
+        "temperature":31.69,
+        "gas":16155.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":656,
+        "timestamp":"12-11 21:45:52",
+        "temperature":31.69,
+        "gas":16218.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":657,
+        "timestamp":"12-11 21:45:57",
+        "temperature":31.69,
+        "gas":16143.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":658,
+        "timestamp":"12-11 21:46:02",
+        "temperature":31.68,
+        "gas":16105.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":659,
+        "timestamp":"12-11 21:46:07",
+        "temperature":31.69,
+        "gas":16255.0,
+        "humidity":40.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":660,
+        "timestamp":"12-11 21:46:12",
+        "temperature":31.68,
+        "gas":16268.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":661,
+        "timestamp":"12-11 21:46:18",
+        "temperature":31.69,
+        "gas":16293.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":662,
+        "timestamp":"12-11 21:46:22",
+        "temperature":31.68,
+        "gas":16180.0,
+        "humidity":40.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":663,
+        "timestamp":"12-11 21:46:27",
+        "temperature":31.68,
+        "gas":16218.0,
+        "humidity":40.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":664,
+        "timestamp":"12-11 21:46:33",
+        "temperature":31.68,
+        "gas":16293.0,
+        "humidity":40.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":665,
+        "timestamp":"12-11 21:46:38",
+        "temperature":31.68,
+        "gas":16344.0,
+        "humidity":40.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":666,
+        "timestamp":"12-11 21:46:43",
+        "temperature":31.67,
+        "gas":16243.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":667,
+        "timestamp":"12-11 21:46:48",
+        "temperature":31.67,
+        "gas":16293.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":668,
+        "timestamp":"12-11 21:46:53",
+        "temperature":31.67,
+        "gas":16331.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":669,
+        "timestamp":"12-11 21:46:58",
+        "temperature":31.67,
+        "gas":16357.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":670,
+        "timestamp":"12-11 21:47:03",
+        "temperature":31.67,
+        "gas":16281.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":671,
+        "timestamp":"12-11 21:47:08",
+        "temperature":31.67,
+        "gas":16180.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":672,
+        "timestamp":"12-11 21:47:13",
+        "temperature":31.66,
+        "gas":16331.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":673,
+        "timestamp":"12-11 21:47:19",
+        "temperature":31.66,
+        "gas":16306.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":674,
+        "timestamp":"12-11 21:47:24",
+        "temperature":31.66,
+        "gas":16306.0,
+        "humidity":40.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":675,
+        "timestamp":"12-11 21:47:29",
+        "temperature":31.66,
+        "gas":16370.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":676,
+        "timestamp":"12-11 21:47:34",
+        "temperature":31.66,
+        "gas":16344.0,
+        "humidity":40.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":677,
+        "timestamp":"12-11 21:47:39",
+        "temperature":31.65,
+        "gas":16357.0,
+        "humidity":40.0,
+        "barometer":1028.72,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":678,
+        "timestamp":"12-11 21:47:44",
+        "temperature":31.65,
+        "gas":16473.0,
+        "humidity":40.0,
+        "barometer":1028.72,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":679,
+        "timestamp":"12-11 21:47:49",
+        "temperature":31.65,
+        "gas":16293.0,
+        "humidity":40.0,
+        "barometer":1028.72,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":680,
+        "timestamp":"12-11 21:47:54",
+        "temperature":31.65,
+        "gas":16331.0,
+        "humidity":40.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":681,
+        "timestamp":"12-11 21:47:59",
+        "temperature":31.65,
+        "gas":16357.0,
+        "humidity":40.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":682,
+        "timestamp":"12-11 21:48:04",
+        "temperature":31.65,
+        "gas":16306.0,
+        "humidity":40.0,
+        "barometer":1028.72,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":683,
+        "timestamp":"12-11 21:48:09",
+        "temperature":31.64,
+        "gas":16243.0,
+        "humidity":40.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":684,
+        "timestamp":"12-11 21:48:15",
+        "temperature":31.64,
+        "gas":16205.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":685,
+        "timestamp":"12-11 21:48:20",
+        "temperature":31.64,
+        "gas":16293.0,
+        "humidity":40.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":686,
+        "timestamp":"12-11 21:48:25",
+        "temperature":31.64,
+        "gas":16434.0,
+        "humidity":40.0,
+        "barometer":1028.72,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":687,
+        "timestamp":"12-11 21:48:30",
+        "temperature":31.63,
+        "gas":16306.0,
+        "humidity":40.0,
+        "barometer":1028.72,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":688,
+        "timestamp":"12-11 21:48:35",
+        "temperature":31.63,
+        "gas":16447.0,
+        "humidity":40.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":689,
+        "timestamp":"12-11 21:48:40",
+        "temperature":31.63,
+        "gas":16383.0,
+        "humidity":40.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":690,
+        "timestamp":"12-11 21:48:45",
+        "temperature":31.63,
+        "gas":16344.0,
+        "humidity":40.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":691,
+        "timestamp":"12-11 21:48:51",
+        "temperature":31.62,
+        "gas":16331.0,
+        "humidity":40.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":692,
+        "timestamp":"12-11 21:48:55",
+        "temperature":31.62,
+        "gas":16331.0,
+        "humidity":40.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":693,
+        "timestamp":"12-11 21:49:01",
+        "temperature":31.61,
+        "gas":16447.0,
+        "humidity":40.0,
+        "barometer":1028.72,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":694,
+        "timestamp":"12-11 21:49:06",
+        "temperature":31.61,
+        "gas":16408.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":695,
+        "timestamp":"12-11 21:49:11",
+        "temperature":31.61,
+        "gas":16306.0,
+        "humidity":40.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":696,
+        "timestamp":"12-11 21:49:16",
+        "temperature":31.61,
+        "gas":16447.0,
+        "humidity":40.0,
+        "barometer":1028.78,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":697,
+        "timestamp":"12-11 21:49:21",
+        "temperature":31.6,
+        "gas":16499.0,
+        "humidity":40.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":698,
+        "timestamp":"12-11 21:49:26",
+        "temperature":31.6,
+        "gas":16551.0,
+        "humidity":40.0,
+        "barometer":1028.73,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":699,
+        "timestamp":"12-11 21:49:31",
+        "temperature":31.6,
+        "gas":16551.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    },
+    {
+        "experiment_ID":700,
+        "timestamp":"12-11 21:49:36",
+        "temperature":31.6,
+        "gas":16281.0,
+        "humidity":40.0,
+        "barometer":1028.76,
+        "liverpool_temperature":5.31,
+        "place":"dongyangHome"
+    }
+]
